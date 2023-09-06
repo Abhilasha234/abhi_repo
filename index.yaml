@@ -3,12 +3,12 @@ entries:
   nginx:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-09-06T05:04:28.576299194Z"
+    created: "2023-09-06T23:33:14.196043187Z"
     description: A Helm chart for Kubernetes
-    digest: 8d0fa28ca084425e08e165a777ddd60525660182885b4444c16bbfe6d2dbf014
+    digest: 9408704daacb75b6e870e6bd7937f6e5a6accc86a9e5b9a60696f799442a9447
     name: nginx
     type: application
     urls:
-    - https://github.com/Abhilasha234/abhi_repo.git/nginx-0.1.0.tgz
+    - https://abhilasha234.github.io/abhi_repo/nginx-0.1.0.tgz
     version: 0.1.0
-generated: "2023-09-06T05:04:28.57543747Z"
+generated: "2023-09-06T23:33:14.152233414Z"
